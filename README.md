@@ -1,3 +1,3 @@
 # yagijin.comへようこそ
 
-私のポートフォリオは，[https://portfolio.yagijin.com/](https://portfolio.yagijin.com/)にあります．  
+- [https://zuruzurura.men/](https://zuruzurura.men/)に移管しました．  
